@@ -1,5 +1,5 @@
 /**
- * CS1010 Semester 1 AY20/21
+ * CS1010 Semester 2 AY20/21
  * Exercise 5: Sudoku
  *
  * TODO(by student): Brief description of the purpose 
